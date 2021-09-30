@@ -1,0 +1,15 @@
+[DOCUMENTATION]
+ORG_NAME="klaylumen Inc."
+ORG_URL="http://klaylm.xyz"
+ORG_DESCRIPTION="Greentheplatform Company based on Singapore"
+
+[[CURRENCIES]]
+code="klayLM"
+issuer="GBHMMXI2IMAYVYYRJPPYRQBQQP3OKHHNUHVT2GZ6273MDU2GEKRZWZ7L"
+display_decimals=7 # Maximum decimal places that can be represented is 7
+image="https://klaylm.xyz/klaylm.png"
+name="Sohwak"
+desc="BUY ONLY, NO SELL, UNTIL GAZUA"
+fixed_number = 999999999
+conditions="hot"
+status="live"
